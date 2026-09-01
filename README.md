@@ -34,3 +34,9 @@ Os dados consultados contêm 336 registros temporais e cobrem as seguintes métr
 - `val_cargasupervisionada`: Carga sob supervisão direta do sistema
 - `val_cargammgd`: Carga referente à Micro e Minigeracão Distribuída (MMGD)
 - `din_referenciautc` / `dat_referencia`: Timestamp e data de medição
+
+---
+
+## Links do google colab
+- https://colab.research.google.com/drive/1FPBrJ5Tx9KUw_fDdLiN0QIAfn9_hxEaA?usp=sharing
+- https://colab.research.google.com/drive/10N9wK9WbXWA6XKqHK7E6DrA7r6eTwDXj?usp=sharing
