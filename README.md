@@ -1,5 +1,15 @@
 # Checkpoint-Desafios-De-Energia-SERS
 
+## Integrantes
+*   **Nickollas Korner** - RM: 569655
+*   **João Pedro Ferrari** - RM: 573037
+*   **Lucas Santana** - RM: 573197
+*   **Lucca Bracco** - RM: 570175
+*   **Vitor Nascimento** - RM: 571873
+*   **Pierri Biason** - RM: 569718
+---
+
+
 ## Análise de Dados de Energia com API Pública do ONS
 
 Projeto desenvolvido para a disciplina de **Soluções em Energias Renováveis e Sustentáveis** do curso de **Ciência da Computação**. 
